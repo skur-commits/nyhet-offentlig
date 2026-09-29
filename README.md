@@ -1,1 +1,1 @@
-# nyhet-offentlig
+# nyhetsapp-utgaver
